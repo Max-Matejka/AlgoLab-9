@@ -103,6 +103,8 @@ Pattern.CASE_INSENSITIVE ? "case insensitive" : "case sensitive")
 + ") occurrences of \"" + pattern + "\" in sentence \"" + input + "\" with \"" + replace
 + "\" to make: \"" + replaced + "\".");
 System.out.println();
-// Write your code here:
+
 }
 }
+
+// AI helped create prompt sentences 
